@@ -1,6 +1,6 @@
 # A simple api for a blog
 
-A simple restful api created for an introduction to node course. 
+A simple restful api - using express - created for an introduction to node course. 
 
 ### Getting started
 1. run 'npm install'  
